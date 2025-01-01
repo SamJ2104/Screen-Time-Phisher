@@ -1,0 +1,16 @@
+{
+  "name": "WhatsApp",
+  "short_name": "WhatsApp",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0C0C0C",
+  "theme_color": "#0C0C0C",
+  "description": "WhatsApp",
+  "icons": [
+    {
+      "src": "whatsapp.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    }
+  ]
+}
